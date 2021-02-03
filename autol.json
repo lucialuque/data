@@ -1,0 +1,19 @@
+{
+  "total": 10,
+  "totalNotFiltered": 10,
+  "rows": [
+    {
+      "tipo": "303",
+      "referencia": "3034000003684",
+      "dni": "55826995A",
+      "sujeto_pasivo": "Juan Manuel Blanco González",
+      "importe": "12,67€"      
+    },{
+      "tipo": "301",
+      "referencia": "3010000003684",
+      "dni": "55826995A",
+      "sujeto_pasivo": "Lucía García Bazquez",
+      "importe": "100,13€"      
+    }
+    ]
+    }
